@@ -1,12 +1,8 @@
-## Hi there 👋
+<img src="assets/logos/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="assets/logos/animated-flame-01.gif" width="1.75%" align="left"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=white&center=true&vCenter=true&width=940&lines=hey%2C+we+are+the+robotic+rangers!" width="90%" align="middle"/>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <img src="assets/logos/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="assets/logos/borderseparator.gif" width="100%"/>
