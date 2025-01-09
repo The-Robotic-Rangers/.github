@@ -6,3 +6,6 @@
   <img src="../assets/logos/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="../assets/logos/borderseparator.gif" width="100%"/>
+
+
+hello we are Team 7155, and we have almost all of our stuff up on our website https://www.roboticrangers.me/High-school
